@@ -14,4 +14,10 @@ Model 3 employs a pretrained ResNet50 model for vision encoding and Google's pre
 ## Model 4 (ResNet50V2 and GPT2 Language Model)
 For Model 4, a pretrained ResNet50V2 model is utilized for vision encoding, while OpenAI's pretrained GPT2 language model serves as the text encoder. This model achieves a test accuracy of 76.74%.
 
-
+# Model Result Table
+| Model                       | Training Time (seconds) | Test Accuracy   | TensorFlow Loss | TensorFlow Accuracy   |
+|----------------------------|--------------------------:|:----------------|------------------:|:----------------------|
+| ResNet50 & CNN Text Encoder |                   2772.3  | 86.30%          |            0.4495 | 84.75%                |
+| ITM-Updated Baseline        |                   1009.26 | 78.73%          |            0.9181 | 78.73%                |
+| ResNet50 & Finetuned BERT   |                   5383.6  | 80.28%          |            0.9971 | 79.67%                |
+| ResNet50V2 & Finetuned GPT2 |                   4534.32 | 76.74%          |            1.0106 | 75.71%                |
