@@ -1,0 +1,20 @@
+#Model Result
+
+
+
+##Total params: 52,494,914
+##Trainable params: 52,494,466
+##Non-trainable params: 448
+
+TEST accuracy=0.787252
+Balanced accuracy: 0.7282308445886263
+model tested!
+AUC: 0.8217555045208538
+Recall: 0.8437856328392246
+Precision: 0.8705882352941177
+F1-score: 0.8569774174869716
+73/73 [==============================] - 1s 10ms/step - loss: 0.9181 - accuracy: 0.7873 - precision: 0.7873 - recall: 0.7873 - auc: 0.8269 - tp: 914.0000 - fp: 247.0000 - tn: 914.0000 - fn: 247.0000
+Tensorflow test method: Loss: 0.9181103706359863; ACCURACY: 0.7872523665428162
+
+Training Time: 1009.26 seconds
+
