@@ -1,1 +1,13 @@
 # Requirements For Testing the codes.
+
+
+# CUDA 11.2 Toolkit
+# Cuddn 8.1
+# Python 3.10 Version
+# Tensorflow 2.10.0 Version
+# Tensorflow Addons
+# Transformers
+# Einops
+# pickle 
+# Numpy
+# scikit-learn
