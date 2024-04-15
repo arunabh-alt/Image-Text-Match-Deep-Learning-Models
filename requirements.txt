@@ -5,3 +5,4 @@ einops
 pickle
 numpy
 scikit-learn
+python==3.10.8
