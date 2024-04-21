@@ -358,14 +358,7 @@ class ITM_Classifier(ITM_DataLoader):
 
 itm = ITM_Classifier()
 
-# TEST accuracy=0.773471
-# Training Time: 820.66 seconds
-# AUC: 0.7729515634284613
-# Recall: 0.8415051311288484
-# Precision: 0.8561484918793504
-# F1-score: 0.8487636572742956
-# 73/73 [==============================] - 1s 9ms/step - loss: 0.5285 - accuracy: 0.7735 - precision: 0.7735 - recall: 0.7735 - auc: 0.8392 - tp: 898.0000 - fp: 263.0000 - tn: 898.0000 - fn: 263.0000
-# Tensorflow test method: Loss: [0.5284811854362488, 0.7734711170196533, 0.7734711170196533, 0.7734711170196533, 0.8392312526702881, 898.0, 263.0, 898.0, 263.0]; ACCURACY: 0.7734711455641688
+
 
 
 # model tested!
