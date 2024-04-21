@@ -360,7 +360,7 @@ class ITM_Classifier(ITM_DataLoader):
 
     
    
-# Let's create an instance of the main class
+#  create an instance of the main class
 
 itm = ITM_Classifier()
 
