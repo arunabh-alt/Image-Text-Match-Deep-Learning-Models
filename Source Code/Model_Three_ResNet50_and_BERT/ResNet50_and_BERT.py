@@ -420,7 +420,6 @@ class ITM_Classifier(ITM_DataLoader):
         # plt.ylabel('Accuracy')
         # plt.legend()
         # plt.show()
-# Let's create an instance of the main class
 
 itm = ITM_Classifier()
 
